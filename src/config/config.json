@@ -1,0 +1,14 @@
+{
+    "port": 3000,
+    "mongodb": {
+        "host": "localhost",
+        "port": 27017,
+        "dbname": "social_network",
+        "user": "",
+        "password": ""
+    },
+    "auth": {
+        "secretKey": "DEVIR_SECRET_KEY",
+        "expiresIn": 43200
+    }
+}
